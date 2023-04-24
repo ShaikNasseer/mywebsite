@@ -1,9 +1,20 @@
 .container {
-max-width: 600px;
-margin: 0 auto;
-padding: 20px;
-text-align: center;
-background-color: #9376a581;
-border-radius: 10px;
-box-shadow: 0 0 10px rgba(0,0,0,0.3);
-}
+    max-width: 5000px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #b35858;
+    border-radius: 70px;
+    box-shadow: 0 0 10px rgba(64, 104, 70, 0.667);
+  }
+  ​
+  h1 {
+    font-size: 3em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  ​
+  p {
+    font-size: 1.2em;
+    color: #666;
+  }
